@@ -1,4 +1,3 @@
-```markdown
 # HETSEQ
 
 **Dynamic Hardware-Aware Adaptive Framework for Heterogeneous Genome Sequencing**
@@ -67,8 +66,8 @@ Partitioning is the dominant contributor. Feedback and telemetry have marginal i
 ---
 
 ## Architecture
-
 ```
+
                  FASTA / sequencing data
                            │
                            ▼
@@ -375,6 +374,4 @@ Competition, Thurstan College.
 **Dinul Sasnada Vithanage**
 Thurstan College
 Science Research Projects Competition — September 2026
-```
 
-This README is comprehensive, professional, and gives anyone visiting the repo everything they need to understand, build, run, and verify the framework. Good luck with the repo and the competition!
